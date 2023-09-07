@@ -67,7 +67,7 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Credits 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   
