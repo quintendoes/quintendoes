@@ -11,7 +11,7 @@
   Hi, I'm audixdev, Software Engineer from the Netherlands.
   <br>
   <br>
-  🔬 I'm currently studying for a ICT Software Developer degree.
+  🔬 I'm currently studying for a ICT/IT Software Developer degree.
   <br>
   💻 I love learning code, and improving myself!
   <br>
