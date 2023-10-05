@@ -1,25 +1,23 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=audixdev.audixdev">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=quitnendoes.quintendoes">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+audixdev....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welkom!!+👋;Hier+is+meer+overmij....&center=true&size=30">
   </a>
 </h1>
 
 <br>
 <p align="center">
-  Hi, I'm audixdev, Software Engineer from the Netherlands.
+  Hi, I'm quintendoes (also known as <a href="https://github.com/audixdev/">audixdev</a>), Software Engineer from the Netherlands.
   <br>
   <br>
-  🔬 I'm currently studying for a ICT/IT Software Developer degree.
+  🔬 I'm currently studying for a ICT/IT Software Developer degree at MBORijnland.
   <br>
   💻 I love learning code, and improving myself!
   <br>
-  📚 I’m currently building a forum site called <a href="https://github.com/softeron-forums">Softeron</a>
-  <br>
-  💬 Ask me anything <a href="https://github.com/audixdev/audixdev/issues" title="Issues">here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: audixdev@gmail.com">audixdev@gmail.com</a>
+  📚 I’m currently building:<br>
+  - A opensource Cloud File Sharing, Link Shorter <a href="https://opencloud.rf.gd/">Opencloud</a><br>
+  - Forum site called <a href="https://github.com/softeron-forums">Softeron</a>
 </p>
 
 <hr>
@@ -57,12 +55,12 @@
 <p align=center>
   <div align=center>
     <a href="#">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=audixdev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quintendoes&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=audixdev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quintendoes&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
